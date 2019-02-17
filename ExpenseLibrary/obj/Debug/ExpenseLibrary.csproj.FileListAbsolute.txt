@@ -1,0 +1,6 @@
+C:\Users\Ricky\Desktop\C# Projects\FinancialManagerUpdateUI\FinancialManager\Updated Financial Manager UI\ExpenseLibrary\bin\Debug\ExpenseLibrary.dll
+C:\Users\Ricky\Desktop\C# Projects\FinancialManagerUpdateUI\FinancialManager\Updated Financial Manager UI\ExpenseLibrary\bin\Debug\ExpenseLibrary.pdb
+C:\Users\Ricky\Desktop\C# Projects\FinancialManagerUpdateUI\FinancialManager\Updated Financial Manager UI\ExpenseLibrary\obj\Debug\ExpenseLibrary.csprojResolveAssemblyReference.cache
+C:\Users\Ricky\Desktop\C# Projects\FinancialManagerUpdateUI\FinancialManager\Updated Financial Manager UI\ExpenseLibrary\obj\Debug\ExpenseLibrary.csproj.CoreCompileInputs.cache
+C:\Users\Ricky\Desktop\C# Projects\FinancialManagerUpdateUI\FinancialManager\Updated Financial Manager UI\ExpenseLibrary\obj\Debug\ExpenseLibrary.dll
+C:\Users\Ricky\Desktop\C# Projects\FinancialManagerUpdateUI\FinancialManager\Updated Financial Manager UI\ExpenseLibrary\obj\Debug\ExpenseLibrary.pdb
